@@ -1,5 +1,5 @@
 Me2ube
 ======
 
-me2day+youtube mashup application.
+me2day+youtube mashup application.  
 yay!
